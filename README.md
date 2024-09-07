@@ -17,7 +17,5 @@ This task implements a Flex-Bison parser for a simplified programming language c
   - **Bitwise**: `&`, `|`, `^`, `~`
   - **Parentheses**: `()`
   
-## Input/Output
-- **Input**: A file containing N++ code.
-- **Output**: The productions used by the parser, or an error message.
+
 
