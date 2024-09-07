@@ -7,7 +7,6 @@ identifier  [_a-zA-Z][_a-zA-Z0-9]*
 
 %%
 
-
 "int"       { return INT; }
 "float"     { return FLOAT; }
 "bool"      { return BOOL; }
